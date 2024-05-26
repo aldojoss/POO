@@ -29,6 +29,7 @@ public class Camion extends Auto {
         
         super.mantenimiento();
     System.out.println("Realizando un mantenimiento de sistema de freno de aire.....");
+        System.out.println("Realizando el mantenimiento de las ejes....");
     }
     
 
