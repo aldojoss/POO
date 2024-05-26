@@ -30,6 +30,7 @@ System.out.println("Tipo de gasolina "+tipogasolina);
     public void mantenimiento() {
        
         super.mantenimiento();
+        System.out.println("Realizando un mantenimiento de Sistema de aire acondicionado.....");
         System.out.println("Realizando un mantenimiento de Limpieza vehicular.....");
     }
 
